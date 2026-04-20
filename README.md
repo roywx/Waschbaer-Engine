@@ -21,5 +21,5 @@ make
 
 ## Further reading
 
-- [Scripting API reference](./docs/scripting-api.md) — every function, class, and namespace exposed to Lua.
+- [Scripting API reference](./docs/scripting_api.md) — every function, class, and namespace exposed to Lua.
 - [Example Game](./demo) — demo game 
